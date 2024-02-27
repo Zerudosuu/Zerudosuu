@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋, I'm Ronald Salvador</h1>
 <h3 align="left">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="border-radius: 50%; object-fit: cover;" />
+ <a href="https://app.daily.dev/zerudosu"><img src="https://api.daily.dev/devcards/v2/V6WQ5lTVkjqdfx3jCY3EJ.png?r=isv" width="356" alt="Ronald Salvador's Dev Card"/></a>
 
 
 
@@ -48,5 +48,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zerudosuu&show_icons=true&locale=en&layout=compact" alt="zerudosuu" style="max-height: 200px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerudosuu&" alt="zerudosuu" style="height: 165px;" />
- <a href="https://app.daily.dev/zerudosu"><img src="https://api.daily.dev/devcards/v2/V6WQ5lTVkjqdfx3jCY3EJ.png?r=isv" width="356" alt="Ronald Salvador's Dev Card"/></a>
+
 </div>
