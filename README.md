@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Ronald Salvador</h1>
-<h3 align="left">A passionate Software Engineer</h3>
+<h3 align="left">A passionate Game and Web Developer</h3>
 
  <a href="https://app.daily.dev/zerudosu"><img align="right" src="https://api.daily.dev/devcards/v2/V6WQ5lTVkjqdfx3jCY3EJ.png?type=default&r=2nl" width="356" alt="Ronald Salvador's Dev Card"/></a>
 
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB, Express, React, and NodeJs**
+- 🌱 I’m currently learning **MERN Stack, and Improving my game dev skill**
 
 - 📫 How to reach me **ronsalvador.m@gmail.com**
 
