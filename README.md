@@ -11,8 +11,6 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack, and Improving my game dev skill**
-
 - 📫 How to reach me **ronsalvador.m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
